@@ -1,0 +1,5 @@
+C:\Users\boris\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\boris\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\GestionCalificaciones.Form1.resources
+C:\Users\boris\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\boris\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\boris\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
