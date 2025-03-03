@@ -1,0 +1,10 @@
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\bin\Debug\EXAMENDIXON.exe.config
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\bin\Debug\EXAMENDIXON.exe
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\bin\Debug\EXAMENDIXON.pdb
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\obj\Debug\EXAMENDIXON.csproj.AssemblyReference.cache
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\obj\Debug\EXAMENDIXON.Form1.resources
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\obj\Debug\EXAMENDIXON.Properties.Resources.resources
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\obj\Debug\EXAMENDIXON.csproj.GenerateResource.cache
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\obj\Debug\EXAMENDIXON.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\obj\Debug\EXAMENDIXON.exe
+C:\Users\boris\source\repos\EXAMENDIXON\EXAMENDIXON\obj\Debug\EXAMENDIXON.pdb
